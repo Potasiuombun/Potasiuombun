@@ -23,13 +23,6 @@ Most of my repos are learning-by-building projects: implementations, experiments
 ### Currently working on
 
 - 📌 Trarity
-- 📌 Improving documentation + reproducible runs across my ML repos
-- 📌 Building smaller, well-explained implementations of core ML ideas
-
-### Let’s connect
-
-- 💬 Open an issue on any repo if you have questions or suggestions
-
 ---
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Potasiuombun)

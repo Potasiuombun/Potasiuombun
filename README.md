@@ -1,18 +1,40 @@
-## Hi there 👋
+## Hey, I’m Tudor 👋
 
-<!--
-**Potasiuombun/Potasiuombun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and study **machine learning** systems—especially **deep learning**, **audio**, and **language models**.  
+Most of my repos are learning-by-building projects: implementations, experiments, and notes.
 
-Here are some ideas to get you started:
+### What I’m into
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Language models (GPT-style, tokenization, training loops)
+- 🔊 Audio ML (Wave-U-Net, enhancement, representations)
+- 🧠 Fundamentals (backprop, activations/gradients, MLPs)
+- 🛠️ Practical projects (apps + tooling when it helps)
+
+### Featured projects
+
+- **WaveUNet-Bass** — waveform-domain enhancement with PyTorch  
+- **GPT / GPT-2 reproduction** — notebook implementations for learning  
+
+### How to navigate my repos
+
+- If a repo looks “small”, it’s usually a focused experiment.
+- For larger repos, check the README first, then `configs/`, `scripts/`, and notebooks.
+
+### Currently working on
+
+- 📌 Trarity
+- 📌 Improving documentation + reproducible runs across my ML repos
+- 📌 Building smaller, well-explained implementations of core ML ideas
+
+### Let’s connect
+
+- 💬 Open an issue on any repo if you have questions or suggestions
+
+---
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Potasiuombun)
+
+<!-- Optional: uncomment if you want GitHub stats (can be noisy) -->
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Potasiuombun&show_icons=true&hide_title=true)
+-->

@@ -18,7 +18,7 @@ Most of my repos are learning-by-building projects: implementations, experiments
 
 ### Currently working on
 
-- 📌 Trarity
+- 📌 [Trarity](https://www.trarity.com/)
 ---
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Potasiuombun)
